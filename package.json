@@ -1,28 +1,28 @@
 {
-    "name": "@wintercms/wn-backend-module",
+    "name": "@devcu/lara-backend-module",
     "version": "1.0.0",
-    "description": "The Backend module for Winter CMS.",
+    "description": "The Backend module for LaraLips CMS.",
     "private": true,
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/wintercms/winter.git"
+        "url": "git+https://github.com/devcu/laralips.git"
     },
     "author": {
-        "name": "Ben Thomson",
-        "email": "git@alfreido.com",
-        "url": "https://wintercms.com"
+        "name": "Gary Cornell",
+        "email": "gary@devcu.com",
+        "url": "https://devcu.com"
     },
     "contributors": [
         {
-            "name": "Winter CMS Maintainers",
-            "url": "https://wintercms.com"
+            "name": "Laralips CMS Maintainers",
+            "url": "https://devcu.com"
         }
     ],
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/wintercms/winter/issues"
+        "url": "https://devcu.com"
     },
-    "homepage": "https://wintercms.com/",
+    "homepage": "https://devcu.com/",
     "dependencies": {
         "@simonwep/pickr": "^1.8.2",
         "jquery-events-to-dom-events": "^1.1.0",
